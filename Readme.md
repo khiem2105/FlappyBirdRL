@@ -1,4 +1,4 @@
-## Simple tabular method for training agent in the taxi environment or agent to play flappy bird
+## Simple tabular method for solving the taxi environment or to play flappy bird
 ## To run a test:
 - Taxi environment
 make run-taxi with flags: \
