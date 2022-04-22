@@ -1,0 +1,3 @@
+gym
+flappy-bird-gym
+numpy
